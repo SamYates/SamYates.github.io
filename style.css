@@ -1,0 +1,24 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  font-style: italic;`
+}
+
+li {
+  color:  white;
+  font-weight: bold;
+  font-family: verdana;
+}
+
+a {
+  color: black;
+  font-style: italic;
+  font-family: verdana;
+  font-size: 25px;
+  text-align: center;
+}
