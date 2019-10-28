@@ -1,27 +1,27 @@
 body {
-  background-color: grey;
+  background-color: #63221f;
 }
 
 h1 {
-  color: white;
+  color: #13241f;
   text-align: center;
   font-family: sans-serif;
   font-style: italic;`
 }
 
 li {
-  color:  white;
+  color: #ab3d29;
   font-weight: bold;
   font-family: verdana;
 }
 
 a {
-  color: black;
+  color: #133a29;
   font-style: italic;
   font-family: verdana;
   font-size: 25px;
   text-align: center;
 }
 .container {
-  background-color: #ca3f7d
+  background-color: #f9ba6d
 }
